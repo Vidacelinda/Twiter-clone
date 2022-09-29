@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "2lg-fF-v6g"; */
+"2lg-fF-v6g.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2lg-fF-v6g"; */
+"2lg-fF-v6g.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "Owh-6o-U2c"; */
+"Owh-6o-U2c.title" = "Logout";
+
+/* Class = "UILabel"; text = "tweet content"; ObjectID = "Sgx-kj-8IN"; */
+"Sgx-kj-8IN.text" = "tweet content";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "qVj-M0-Bjn"; */
+"qVj-M0-Bjn.title" = "Home";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "uqo-qT-0mb"; */
+"uqo-qT-0mb.text" = "name";
