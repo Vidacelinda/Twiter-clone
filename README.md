@@ -1,4 +1,4 @@
-# Twitter 
+# Twitter part 2
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
@@ -22,7 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 ---------------------
 
-# Project - *Twitter Clone*
+# Project - *Twitter Clone* part 1
 
 **Twitter Clone** is a basic twitter app to read your tweets.
 
