@@ -36,7 +36,7 @@ The following functionality is completed:
 - [x] User can log in. 
 - [x] User can log out. 
 - [x] User stays logged in across restarts. 
-- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can view tweets with the user profile picture, username, and tweet text.
 
 The following features are implemented:
 
